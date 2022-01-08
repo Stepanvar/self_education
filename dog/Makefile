@@ -1,5 +1,5 @@
 .DEFAULT_GOAL = all
-NAME	= learn.out
+NAME	= dog.out
 SDIR	= ./src
 ODIR	= ./bin
 SRCS	= $(shell find $(SDIR) -name '*.c')
